@@ -48,8 +48,8 @@ There are two rules that you have to implement as below:
    </div>
 
 2. If the content of text has the break line charater __('\n')__ or comma character __(',')__, you must be changed these charater to the symbol below:
-   __"<bl>"__  <===> break line character __('\n')__
-   __"<nc>"__  <===> comma character __(',')__
+   __\<bl\>__  <===> break line character __('\n')__
+   __\<nc\>__  <===> comma character __(',')__
         
    For example:
    <div align="center">
