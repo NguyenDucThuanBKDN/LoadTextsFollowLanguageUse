@@ -1,0 +1,13 @@
+TextName,VietNamese,English,Japanese,Simplified Chinese,Traditional Chinese,French,German,Spanish,Hindi
+layer_language,NGÔN NGỮ,LANGUAGE,言語,,,,,,
+layer_1,vài thứ cho layer_1,something for layer_1,layer_1のための何か,,,,,,
+layer_2,vài thứ cho layer_2,something for layer_2,layer_2のための何か,,,,,,
+layer_3,vài thứ cho layer_3,something for layer_3,layer_3のための何か,,,,,,
+layer_4,vài thứ cho layer_4,something for layer_4,layer_4のための何か,,,,,,
+layer_5,vài thứ cho layer_5,something for layer_5,layer_5のための何か,,,,,,
+layer_6,vài thứ cho layer_6,something for layer_6,layer_6のための何か,,,,,,
+layer_7,vài thứ cho layer_7,something for layer_7,layer_7のための何か,,,,,,
+layer_8,vài thứ cho layer_8,something for layer_8,layer_8のための何か,,,,,,
+layer_9,vài thứ cho layer_9,something for layer_9,layer_9のための何か,,,,,,
+text_have_break_line_character,Đây là text có chứa<bl>ký tự xuống dòng,This is the text that contains<bl>the break line character,これは、<bl>改行文字を含むテキストです,,,,,,
+text_have_comma_character,Đây là text cos chứa <nc> ký tự dấu phẩy,This is the text that contains <nc> the comma character,これは、<nc>コンマ文字を含むテキストです,,,,,,
