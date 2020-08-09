@@ -1,8 +1,9 @@
 # Load Unity-Texts Follow Language Use
 This project provides a small plugin to load the content of Unity-texts that follow the language is using.
-</br>The content of texts will be loaded from CSV file. You Only need some mins to understand about this plugin.
+</br>The content of texts will be loaded from CSV file. You only need some mins to understand about this plugin.
 
-Via __CustomLoadText.cs__ (Assets/Editor/Scripts/CustomLoadText.cs) script, a script is used to custom Unity Editor. And __LoadTextFollowLanguageUse.cs__ (Assets/Scripts/UI_Manager/LoadTextFollowLanguageUse.cs) script, a script is used to reload the texts if user just changed the language.
+Via __CustomLoadText.cs__ (Assets/Editor/Scripts/CustomLoadText.cs) script, a script is used to custom Unity Editor. 
+</br>And __LoadTextFollowLanguageUse.cs__ (Assets/Scripts/UI_Manager/LoadTextFollowLanguageUse.cs) script, a script is used to reload the texts if user just changed the language.
 
 
 # Usage
