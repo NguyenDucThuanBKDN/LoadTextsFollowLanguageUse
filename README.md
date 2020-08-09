@@ -40,7 +40,7 @@ If you are using __Text Mesh Pro__ instead of the default Text UI of Unity, you 
 
 # Notes
 
-There are two rules that you have to implement as below:
+There are three rules that you have to implement as below:
 1. If you want to implement another language, open __LanguageManager.cs__ script and then edit for __Languages__ enum and __dicLanguages__ dictionary.
    </br>The value of __dicLanguages__ dictionary must be like as the column name of CSV file.
    <div align="center">
