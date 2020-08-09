@@ -8,7 +8,7 @@ Via __CustomLoadText.cs__ (Assets/Editor/Scripts/CustomLoadText.cs) script, a sc
 # Usage
 
 Step 1: Create a CSV file to contain the contents that you want to load into Unity-texts (you can use Excel tool or Google Sheets to create CSV file).
-        </br>Put this CSV file to StreamingAssets folder on Unity Editor (Assets/StreamingAssets)
+        </br>Put this CSV file to __StreamingAssets__ folder on Unity Editor (Assets/StreamingAssets)
         Check example below to know about the contents of CSV file:
         <div align="center">
         <img width="900" src="https://github.com/NguyenDucThuanBKDN/LoadTextsFollowLanguageUse/blob/master/Document/IMG_1.png"></img>
@@ -38,7 +38,7 @@ If you are using __Text Mesh Pro__ instead of the default Text UI of Unity, you 
 </div>
 
 
-# Note
+# Notes
 
 There are two rules that you have to implement as below:
 1. If you want to implement another language, open __LanguageManager.cs__ script and then edit for __Languages__ enum and __dicLanguages__ dictionary.
@@ -58,6 +58,8 @@ There are two rules that you have to implement as below:
    <div align="center">
    <img width="900" src="https://github.com/NguyenDucThuanBKDN/LoadTextsFollowLanguageUse/blob/master/Document/IMG_7.png"></img>
    </div>
+   
+3. If you want to add any text to CSV file, you should be added at next row of last row.
   
 # Example
 For example, you can checkout this project and try to test. 
